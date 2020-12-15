@@ -4083,7 +4083,7 @@ static PropValue kvm_default_props[] = {
     { "x2apic", "on" },
     { "acpi", "off" },
     { "monitor", "off" },
-    { "svm", "off" },
+    { "svm", "on" },
     { NULL, NULL },
 };
 
